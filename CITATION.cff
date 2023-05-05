@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Øien"
+  given-names: "Christian Dalheim "
+  orcid: "https://orcid.org/0000-0001-8364-0502"
+title: "publication1"
+version: 1.0.0
+doi: 10.5281/zenodo.7650267
+date-released: 2023-02-17
+url: "https://github.com/christiandalheimoien/publication1"
